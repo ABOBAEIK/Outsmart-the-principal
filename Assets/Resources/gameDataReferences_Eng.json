@@ -1,0 +1,24 @@
+{
+  "Menu": {
+    "PlayText": "Play",
+    "SettingsText": "Settings"
+  },
+
+  "Items": {
+    "None": {
+      "Name": ""
+    },
+    "ExamAnswer": {
+      "Name": "Exam answer",
+      "Icon": "eng/ExamAnswer"
+    }
+  },
+
+  "Tips": {
+    "0": "You can to play! Yaaaaay!",
+    "1": "Someone knows you're playing this game...",
+    "2": "This game was created by four, at least more than one person.",
+    "3": "English is the base language here. May be not, idk.",
+    "4": "Someday there will be all translated. Probably may be"
+  }
+}
